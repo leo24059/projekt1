@@ -1,0 +1,25 @@
+{
+    "name": "projekt1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "callibot2e": "github:MatthiasKessler0536/pxt-callibot2e#2039c24aa976341ef5230f71a33fac6de92858ac"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.3",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
